@@ -1,0 +1,9 @@
+.git
+*.swp
+*~
+*.pyc
+tmp/
+_build/
+bundle/
+added-modules.txt
+download-status.json

@@ -1,0 +1,31 @@
+[{
+    "name": "ngx_devel_kit",
+    "url": "https://github.com/simpl/ngx_devel_kit/archive/v0.3.0.tar.gz"
+}, {
+    "name": "echo_nginx_module",
+    "url": "https://github.com/openresty/echo-nginx-module/archive/v0.59.tar.gz"
+}, {
+    "name": "ngx_http_redis",
+    "url": "http://people.freebsd.org/~osa/ngx_http_redis-0.3.7.tar.gz"
+}, {
+    "name": "ngx_cache_purge",
+    "url": "https://github.com/FRiCKLE/ngx_cache_purge/archive/2.3.tar.gz"
+}, {
+    "name": "nginx_http_concat",
+    "url": "https://github.com/alibaba/nginx-http-concat/archive/1.2.2.tar.gz"
+}, {
+    "name": "lua_nginx_module",
+    "url": "https://github.com/openresty/lua-nginx-module/archive/v0.10.5.tar.gz"
+}, {
+    "name": "set_misc_nginx_module",
+    "url": "https://github.com/openresty/set-misc-nginx-module/archive/v0.30.tar.gz"
+}, {
+    "name": "srcache_nginx_module",
+    "url": "https://github.com/openresty/srcache-nginx-module/archive/v0.31.tar.gz"
+}, {
+    "name": "redis2_nginx_module",
+    "url": "https://github.com/openresty/redis2-nginx-module/archive/v0.13.tar.gz"
+},{
+    "name": "ngx_headers_more",
+    "url": "https://github.com/openresty/headers-more-nginx-module/archive/v0.30.tar.gz"
+}]

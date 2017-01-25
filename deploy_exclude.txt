@@ -1,0 +1,4 @@
+.git
+bundle/
+download-status.json
+added-modules.txt
